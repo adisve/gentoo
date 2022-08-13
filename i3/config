@@ -18,7 +18,7 @@ font pango:firacode 11
 for_window [class=".*"] border pixel 0
 gaps outer 8
 gaps top 22
-gaps bottom 20
+gaps bottom 16
 gaps inner 18
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
@@ -132,7 +132,7 @@ set $ws1 ""
 set $ws2 ""
 set $ws3 ""
 set $ws4 ""
-set $ws5 ""
+set $ws5 ""
 set $ws6 ""
 set $ws7 ""
 set $ws8 ""
