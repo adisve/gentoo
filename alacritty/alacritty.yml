@@ -12,13 +12,16 @@ window:
 
 
 font:
+  offset:
+      x: 1    # For letter spacing.
+      y: 0    # For line spacing. 
   normal:
 
     family: FiraCode Nerd Font
 
     style: Regular
 
-  size: 12
+  size: 11
   use_thin_strokes: true
 colors:
   name: astromouse

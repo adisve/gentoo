@@ -1,0 +1,22 @@
+[2022-08-14 17:01:02.537] [sharedprocess] [info] Starting worker process with pid 26766 (type: fileWatcher, window: 1).
+[2022-08-14 17:01:15.225] [sharedprocess] [info] Getting Manifest... lukas-tr.materialdesignicons-intellisense
+[2022-08-14 17:01:15.275] [sharedprocess] [info] Installing extension: lukas-tr.materialdesignicons-intellisense
+[2022-08-14 17:01:16.209] [sharedprocess] [info] Downloaded extension: lukas-tr.materialdesignicons-intellisense /home/adis/.config/VSCodium/CachedExtensionVSIXs/lukas-tr.materialdesignicons-intellisense-4.1.0
+[2022-08-14 17:01:16.360] [sharedprocess] [info] Extracted extension to /home/adis/.vscode-oss/extensions/.43b95c75-5fe8-4b25-b37f-b6c11e0be1a3: lukas-tr.materialdesignicons-intellisense
+[2022-08-14 17:01:16.362] [sharedprocess] [info] Renamed to /home/adis/.vscode-oss/extensions/lukas-tr.materialdesignicons-intellisense-4.1.0
+[2022-08-14 17:01:16.363] [sharedprocess] [info] Extracting completed. lukas-tr.materialdesignicons-intellisense
+[2022-08-14 17:01:16.364] [sharedprocess] [info] Extension installed successfully: lukas-tr.materialdesignicons-intellisense
+[2022-08-14 17:01:18.515] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-08-14 17:01:18.561] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-08-14 17:01:19.167] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/adis/.config/VSCodium/CachedExtensionVSIXs/pkief.material-icon-theme-4.19.0
+[2022-08-14 17:01:19.371] [sharedprocess] [info] Extracted extension to /home/adis/.vscode-oss/extensions/.a62800c4-4894-4567-a2ff-087abc289224: pkief.material-icon-theme
+[2022-08-14 17:01:19.381] [sharedprocess] [info] Renamed to /home/adis/.vscode-oss/extensions/pkief.material-icon-theme-4.19.0
+[2022-08-14 17:01:19.382] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-08-14 17:01:19.382] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-08-14 17:01:36.136] [sharedprocess] [info] Getting Manifest... knisterpeter.vscode-github
+[2022-08-14 17:01:36.184] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2022-08-14 17:01:36.865] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /home/adis/.config/VSCodium/CachedExtensionVSIXs/knisterpeter.vscode-github-0.30.7
+[2022-08-14 17:01:37.048] [sharedprocess] [info] Extracted extension to /home/adis/.vscode-oss/extensions/.47ec2d54-360d-4cf2-acb8-e4a651cab001: knisterpeter.vscode-github
+[2022-08-14 17:01:37.060] [sharedprocess] [info] Renamed to /home/adis/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.7
+[2022-08-14 17:01:37.060] [sharedprocess] [info] Extracting completed. knisterpeter.vscode-github
+[2022-08-14 17:01:37.061] [sharedprocess] [info] Extension installed successfully: knisterpeter.vscode-github
